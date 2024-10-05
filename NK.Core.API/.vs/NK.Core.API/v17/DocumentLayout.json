@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56453DA7-3FDD-4ECB-A23C-6D449C00A825}|NK.Core.API.csproj|g:\\doantotnghiep2024\\doantotnghiep2024\\nikeworld\\nk.core.api\\nk.core.api\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56453DA7-3FDD-4ECB-A23C-6D449C00A825}|NK.Core.API.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41F8435-993E-4826-BA7B-038C8DDC805A}|..\\NK.Core.Model\\NK.Core.Model.csproj|g:\\doantotnghiep2024\\doantotnghiep2024\\nikeworld\\nk.core.api\\nk.core.model\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41F8435-993E-4826-BA7B-038C8DDC805A}|..\\NK.Core.Model\\NK.Core.Model.csproj|g:\\doantotnghiep2024\\doantotnghiep2024\\nikeworld\\nk.core.api\\nk.core.model\\migrations\\20240908093512_start_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.API\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.API\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:43:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240908093512_start_v1.cs",
+              "DocumentMoniker": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.Model\\Migrations\\20240908093512_start_v1.cs",
+              "RelativeDocumentMoniker": "..\\NK.Core.Model\\Migrations\\20240908093512_start_v1.cs",
+              "ToolTip": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.Model\\Migrations\\20240908093512_start_v1.cs",
+              "RelativeToolTip": "..\\NK.Core.Model\\Migrations\\20240908093512_start_v1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:35:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.Model\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "..\\NK.Core.Model\\DataSeeding.cs",
+              "ToolTip": "G:\\doantotnghiep2024\\doantotnghiep2024\\NikeWorld\\nk.core.api\\NK.Core.Model\\DataSeeding.cs",
+              "RelativeToolTip": "..\\NK.Core.Model\\DataSeeding.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAAwDIBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T06:58:25.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
